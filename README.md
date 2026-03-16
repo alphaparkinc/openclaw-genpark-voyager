@@ -1,0 +1,2 @@
+# openclaw-genpark-voyager
+Stop chatting with AI travel agents. Use a node that executes. `openclaw-genpark-voyager` interfaces with global airline/hotel APIs via the GenPark protocol to autonomously hold, negotiate, and book travel based on your hard constraints.
